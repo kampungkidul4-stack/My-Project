@@ -141,7 +141,8 @@
     <section class="contact">
         <h2>Hubungi Kami</h2>
         <p>Siap melayani dengan cepat dan profesional</p>
-        <a href="#">WhatsApp Sekarang</a>
+        <a href="https://wa.me/6282179883221?text=Halo%20saya%20ingin%20bertanya
+">WhatsApp Sekarang</a>
     </section>
 
     <footer>
